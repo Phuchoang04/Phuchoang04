@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Phuchoang04
 - 👀 I’m interested in CNTT
-- 🌱 I’m currently learning school THPT NGUYEN THI BICH CHAU
+- 🌱 I’m currently learning MQA Du Hoc Duc
 - 💞️ I’m looking to collaborate on github.com
 - 📫 You can contact me by gmail Phuchoangkyanh2512@gmail.com
 
